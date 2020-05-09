@@ -91,13 +91,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Software Solutions Releases Nexus Repository</name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-release/</url>
+	      <name>Tatineni-Nexus Repository</name>
+	      <url>http://54.175.221.129:9980/tatineni-nexus/repository/paytm-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Software Solutions Snapshot Nexus Repository </name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <name>Tatineni-Nexus Repository</name>
+	      <url>http://54.175.221.129:9980/tatineni-nexus/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
